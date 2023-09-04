@@ -9,7 +9,9 @@
         <filefilterlist>
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
-                 <filteritem type="filepath" name="README.OpenSource"
+                <filteritem type="filepath" name="README.OpenSource"
+                    desc="" />
+                <filteritem type="filepath" name="LICENSE"
                     desc="" />
             </filefilter>
             <filefilter name="defaultFilter">
@@ -17,7 +19,6 @@
                     desc="" />
             </filefilter>
         </filefilterlist>
-        
         <licensematcherlist>
             <licensematcher name="Khronos Group License" desc="">
                 <licensetext name="
