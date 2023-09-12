@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_buildtools_libcppapi",                   # 上游开源软件名全称
+        "Name": "libcxxabi",                   # 上游开源软件名全称
         "License":          # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.TXT"     # 许可证所在文件路径
         "Version Number": "7d7912617f159a10bcaaf0867f140469b2a77536",
