@@ -1,10 +1,29 @@
 [
     {
-        "Name": "libcxxabi",                   # 上游开源软件名全称
-        "License":          # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE.TXT"     # 许可证所在文件路径
-        "Version Number": "7d7912617f159a10bcaaf0867f140469b2a77536",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxxabi.git@7d7912617f159a10bcaaf0867f140469b2a77536",   # 上游软件包发布地址
-        "Description": "Chromium 编译库API"           # 开源软件功能描述
+        "Name": "libcxxabi",
+	    "License": "Apache-2.0",
+	    "License File": "LICENSE.TXT",
+	    "Version Number": "7d7912617f159a10bcaaf0867f140469b2a77536",
+	    "Owner": "liujixin@huawei.com",
+	    "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxxabi.git@7d7912617f159a10bcaaf0867f140469b2a77536",
+	    "Description": "Chromium 编译库API"
+    },
+	{
+        "Name": "libcxxabi",
+	    "License": "MIT",
+	    "License File": "LICENSE.TXT",
+	    "Version Number": "7d7912617f159a10bcaaf0867f140469b2a77536",
+	    "Owner": "liujixin@huawei.com",
+	    "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxxabi.git@7d7912617f159a10bcaaf0867f140469b2a77536",
+	    "Description": "Chromium 编译库API"
+    },
+	{
+        "Name": "libcxxabi",
+	    "License": "NCSA",
+	    "License File": "LICENSE.TXT",
+	    "Version Number": "7d7912617f159a10bcaaf0867f140469b2a77536",
+	    "Owner": "liujixin@huawei.com",
+	    "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxxabi.git@7d7912617f159a10bcaaf0867f140469b2a77536",
+	    "Description": "Chromium 编译库API"
     }
 ]
