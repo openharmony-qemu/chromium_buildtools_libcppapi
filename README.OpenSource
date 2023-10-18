@@ -1,6 +1,6 @@
 [
     {
-        "Name": "libcxxabi",
+        "Name": "llvm-project",
 	    "License": "Apache-2.0",
 	    "License File": "LICENSE.TXT",
 	    "Version Number": "7d7912617f159a10bcaaf0867f140469b2a77536",
@@ -9,17 +9,8 @@
 	    "Description": "Chromium 编译库API"
     },
 	{
-        "Name": "libcxxabi",
-	    "License": "MIT",
-	    "License File": "LICENSE.TXT",
-	    "Version Number": "7d7912617f159a10bcaaf0867f140469b2a77536",
-	    "Owner": "liujixin@huawei.com",
-	    "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxxabi.git@7d7912617f159a10bcaaf0867f140469b2a77536",
-	    "Description": "Chromium 编译库API"
-    },
-	{
-        "Name": "libcxxabi",
-	    "License": "NCSA",
+        "Name": "llvm-project",
+	    "License": "LLVM-exception",
 	    "License File": "LICENSE.TXT",
 	    "Version Number": "7d7912617f159a10bcaaf0867f140469b2a77536",
 	    "Owner": "liujixin@huawei.com",
