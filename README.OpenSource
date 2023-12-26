@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "llvm-project",
+	    "License": "Apache License v2.0 with LLVM Exceptions",
+	    "License File": "LICENSE.TXT",
+	    "Version Number": "7d7912617f159a10bcaaf0867f140469b2a77536",
+	    "Owner": "liujixin@huawei.com",
+	    "Upstream URL": "https://chromium.googlesource.com/external/github.com/llvm/llvm-project/libcxxabi.git@7d7912617f159a10bcaaf0867f140469b2a77536",
+	    "Description": "Chromium 编译库API"
+    }
+]
